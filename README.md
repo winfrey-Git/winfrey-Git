@@ -10,13 +10,16 @@
 </p>
 
 <!-- PROFILE VIEWS AND LINKS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winfrey-Git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/winfred-kive-a83822317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/winfrey-Git">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
