@@ -1,71 +1,70 @@
 
-<h1 align="center">WINFRED KIVE</h1>
-
 <p align="center">
-  <b>Software Developer | Technical Consultant</b><br>
-  Nairobi, Kenya
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:1D4ED8&height=180&section=header&text=WINFRED%20KIVE&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20TECHNICAL%20CONSULTANT&descSize=14&descAlignY=65" width="100%" alt="Winfred Kive developer banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/winfrey-Git">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/winfred-kive-a83822317/">LinkedIn</a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;APIs+%26+Enterprise+Applications;Microsoft+Business+Central+%26+AL" alt="Developer roles typing animation"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Business_Central-0078D4?style=flat-square&logo=microsoft&logoColor=white">
+  <a href="https://github.com/winfrey-Git">
+    <img src="https://img.shields.io/badge/GitHub-winfrey--Git-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/winfred-kive-a83822317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+  </a>
 </p>
 
 ---
 
-### ABOUT
+## About Me
 
 I'm a Computer Science graduate from Egerton University
 working in software development and enterprise applications.
 
-My work includes developing web applications and REST APIs,
-building user interfaces, and customizing business systems.
-I enjoy solving practical problems and writing code that
-is easy to maintain and extend.
+I build web applications, develop APIs and customize business
+systems. I enjoy working across the backend and frontend,
+testing functionality and solving practical development problems.
 
-### TECHNOLOGIES
+## Technologies
 
-| Area | Technologies |
-|---|---|
-| Languages | C#, JavaScript, Python, PHP, AL |
-| Frameworks | ASP.NET Core, React, Django, EF Core |
-| Databases | SQL Server, MySQL, PostgreSQL |
-| Tools | Git, Docker, Postman, Cypress, xUnit |
-| Other | REST APIs, functional testing, Business Central |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,python,django,js,php,mysql,postgres,git,github,docker,linux" alt="Programming languages and development tools"/>
+</p>
 
-### PROJECTS
+**Enterprise development:** Microsoft Dynamics 365 Business Central, AL  
+**Testing:** Postman, Cypress, xUnit  
+**Databases:** SQL Server, MySQL, PostgreSQL
 
-**Ticketing & Support Management System**
+## Selected Projects
 
-Ticket assignment, role-based access, ticket status tracking
-and SLA management.
+### Ticketing & Support Management System
+
+A web application for managing support tickets, user roles,
+assignments, ticket status and SLA tracking.
 
 `ASP.NET Core` `React` `SQL Server` `EF Core`
 
-**Enterprise Applications**
+### Business Central Development
 
-Business Central customization and extensions to support
-business processes and application requirements.
+Customization and extension of Microsoft Dynamics 365 Business
+Central to support enterprise workflows and business processes.
 
-`AL` `Microsoft Dynamics 365 Business Central`
+`AL` `Business Central`
+
+## GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=winfrey-Git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winfrey-Git&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
 ---
 
-### GITHUB
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winfrey-Git&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="GitHub statistics">
-</p>
-
-<p align="center">
-  <sub>Software development · Continuous learning · Practical solutions</sub>
+  <a href="https://github.com/winfrey-Git">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/winfred-kive-a83822317/">LinkedIn</a>
 </p>
